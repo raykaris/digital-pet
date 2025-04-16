@@ -1,6 +1,7 @@
-from pet import pet
+from pet import Pet
 
-my_pet = pet("Oscar")
+my_pet = Pet("Oscar")
+
 my_pet.get_status()
 my_pet.eat()
 my_pet.play()

@@ -26,3 +26,23 @@ It helps in the use of classes, attributes, methods, and constructors.
 ```bash
 python main.py
 ```
+
+## sample output
+```bash
+🐶 Oscar's Status 🐶
+Hunger: 5/10
+Energy: 5/10
+Happiness: 5/10
+Oscar ate some food. Hunger decreased from 5 to 2.     
+Oscar's happiness increased to 6.
+Oscar played! Energy is now at 3.
+Oscar's happiness increased to 8.
+Oscar took a nap. Energy increased from 3 to 8.        
+Oscar learned a new trick: roll over!
+Oscar learned a new trick: paly dead!
+Oscar knows the following tricks: roll over, paly dead.
+🐶 Oscar's Status 🐶
+Hunger: 3/10
+Energy: 8/10
+Happiness: 8/10
+```
