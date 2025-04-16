@@ -1,6 +1,6 @@
 from pet import Pet
 
-my_pet = Pet("Oscar")
+my_pet = Pet(" ") # enter your pet name
 
 my_pet.get_status()
 my_pet.eat()
