@@ -2,7 +2,7 @@ from pet import Pet
 
 my_pet = Pet(" ") # enter your pet name
 
-my_pet.get_status()
+my_pet.get_status() 
 my_pet.eat()
 my_pet.play()
 my_pet.sleep()
